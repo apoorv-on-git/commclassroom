@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/commclassroom/static/media/events_kubescape.c17b5837.png"
   },
   {
-    "revision": "848bf2288ed5cbbb68ff3965b5b52c8e",
+    "revision": "dd1e61b1cb0d2a97f05dfa683d2fb7c8",
     "url": "/commclassroom/index.html"
   }
 ];
